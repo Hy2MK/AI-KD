@@ -30,3 +30,7 @@ If you use this method or this code in your research, please cite as:
   year={2024},
   publisher={Elsevier}
 }
+```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
